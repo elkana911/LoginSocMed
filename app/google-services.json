@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "633255080865",
+    "firebase_url": "https://loginsocmed-19d0f.firebaseio.com",
+    "project_id": "loginsocmed-19d0f",
+    "storage_bucket": "loginsocmed-19d0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633255080865:android:98dfbf1a47d371cd",
+        "android_client_info": {
+          "package_name": "com.example.eric.loginsocmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633255080865-fjlvt9br7sgkcdn7gpngbtuq4ssd6puh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eric.loginsocmed",
+            "certificate_hash": "3e036b07ecc9c7dc84b490a141c3466d415bda16"
+          }
+        },
+        {
+          "client_id": "633255080865-rvropebjs4i7l26k75257g409eq4ellr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIvXb5TyPpwOizmsfvgIstsxJd4RIiQqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633255080865-rvropebjs4i7l26k75257g409eq4ellr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
